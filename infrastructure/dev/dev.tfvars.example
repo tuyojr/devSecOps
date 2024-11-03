@@ -1,0 +1,5 @@
+region = "country-region-1"
+vpc_name = "your_vpc_name"
+vpc_subnet_filter_name = "vpc-id" # This is the default
+role_name = "your-role-name"
+cluster_name = "your-cluster-name"
